@@ -16,29 +16,29 @@ The Snake Water Gun Game is a simple implementation of the classic game using th
 
 ### Installation
 
-1. Clone the Repository:
+1. **Clone the Repository:**
 
-```
-   git clone https://github.com/shivankushsingh09/Snake-Water-Gun-Game.git
-```
+   ```bash
+      git clone https://github.com/shivankushsingh09/Snake-Water-Gun-Game.git
+   ```
 
-2. Navigate to the Project Directory:
+2. **Navigate to the Project Directory:**
 
-```
-cd Snake-Water-Gun-Game
-```
+   ```bash
+      cd Snake-Water-Gun-Game
+   ```
 
-3. Compile the Code:
+3. **Compile the Code:**
 
-```
-gcc -o Snake-Water-Gun-Game main.c
-```
+   ```bash
+      gcc -o Snake-Water-Gun-Game main.c
+   ```
 
-4. Run the Game:
+4. **Run the Game:**
 
-```
-./Snake-Water-Gun-Game
-```
+   ```bash
+      ./Snake-Water-Gun-Game
+   ```
 
 ### How to Play
 
@@ -67,22 +67,22 @@ gcc -o Snake-Water-Gun-Game main.c
 
 2. Create a New Branch:
 
-```
-git checkout -b feature/new-feature
-```
+   ```bash
+      git checkout -b feature/new-feature
+   ```
 
 3. Make Changes and Commit:
 
-```
-git add .
-git commit -m "Add new feature"
-```
+   ```bash
+      git add .
+      git commit -m "Add new feature"
+   ```
 
 4. Push to Your Fork:
 
-```
-git push origin feature/new-feature
-```
+   ```bash
+      git push origin feature/new-feature
+   ```
 
 5. Open a Pull Request:
    Go to the original repository and open a pull request with your changes.
