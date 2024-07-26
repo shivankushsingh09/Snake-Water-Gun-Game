@@ -65,20 +65,20 @@ The Snake Water Gun Game is a simple implementation of the classic game using th
 1. Fork the Repository:
    Click on the "Fork" button on GitHub to create a copy of this repository under your account.
 
-2. Create a New Branch:
+2. **Create a New Branch:**
 
    ```bash
       git checkout -b feature/new-feature
    ```
 
-3. Make Changes and Commit:
+3. **Make Changes and Commit:**
 
    ```bash
       git add .
       git commit -m "Add new feature"
    ```
 
-4. Push to Your Fork:
+4. **Push to Your Fork:**
 
    ```bash
       git push origin feature/new-feature
