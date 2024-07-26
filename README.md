@@ -1,5 +1,102 @@
 ## Introduction
 
-Snake, Water, Gun" is a simple yet engaging command-line game developed in C programming language. The game pits the player against the computer in a series of rounds. Each round, the player chooses between 'Snake', 'Water', or 'Gun', and the computer randomly selects one as well. The outcome of each round is determined by specific rules: Snake wins against Water (as it can drink it), Water wins against Gun (by drowning it), and Gun wins against Snake (by shooting it). The game continues for a specified number of rounds, and the winner is determined by counting who wins more rounds.
+The Snake Water Gun Game is a simple implementation of the classic game using the C programming language. This project demonstrates basic game mechanics, user input handling, and game logic.
 
-This project enhances programming skills by implementing basic logic, user input handling, random number generation, and simple conditional statements in C.
+### Features
+
+- Classic Game Mechanics: Implements the Snake Water Gun game rules.
+- User Input: Allows players to input their choices for the game.
+- Score Tracking: Keeps track of the score for each round.
+- Game Over Condition: Ends the game when certain conditions are met.
+
+### Requirements
+
+- Compiler: GCC (GNU Compiler Collection) or any compatible C compiler.
+- Operating System: The game should run on any system that supports C compilation, including Windows, macOS, and Linux.
+
+### Installation
+
+1. Clone the Repository:
+
+```
+   git clone https://github.com/yourusername/snake-water-gun-game.git
+```
+
+2. Navigate to the Project Directory:
+
+```
+cd snake-water-gun-game
+
+```
+
+3. Compile the Code:
+
+```
+gcc -o snake_water_gun_game main.c
+
+```
+
+4. Run the Game:
+
+```
+./snake_water_gun_game
+```
+
+### How to Play
+
+1. Start the Game:
+
+- Execute the compiled binary to start the game.
+
+2. Input Choices:
+
+- Enter your choice (Snake, Water, or Gun) when prompted.
+- The game will display the computer's choice and the result of the round.
+
+3. Winning and Losing:
+
+- The game will display your score and the computer's score.
+- The game continues until the predefined number of rounds is completed.
+
+### Code Structure
+
+- main.c: Contains the main logic of the game, including game loop, input handling, and score management.
+
+### Contributing
+
+1. Fork the Repository:
+   Click on the "Fork" button on GitHub to create a copy of this repository under your account.
+
+2. Create a New Branch:
+
+```
+git checkout -b feature/new-feature
+
+```
+
+3. Make Changes and Commit:
+
+```
+git add .
+git commit -m "Add new feature"
+
+```
+
+4. Push to Your Fork:
+
+```
+git push origin feature/new-feature
+
+```
+
+5. Open a Pull Request:
+   Go to the original repository and open a pull request with your changes.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgments
+
+- Thanks to the C programming community for providing resources and support.
+- Special thanks to anyone who contributed to the project.
