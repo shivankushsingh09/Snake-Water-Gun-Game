@@ -19,27 +19,27 @@ The Snake Water Gun Game is a simple implementation of the classic game using th
 1. Clone the Repository:
 
 ```
-   git clone https://github.com/yourusername/snake-water-gun-game.git
+   git clone https://github.com/shivankushsingh09/Snake-Water-Gun-Game.git
 ```
 
 2. Navigate to the Project Directory:
 
 ```
-cd snake-water-gun-game
+cd Snake-Water-Gun-Game
 
 ```
 
 3. Compile the Code:
 
 ```
-gcc -o snake_water_gun_game main.c
+gcc -o Snake-Water-Gun-Game main.c
 
 ```
 
 4. Run the Game:
 
 ```
-./snake_water_gun_game
+./Snake-Water-Gun-Game
 ```
 
 ### How to Play
