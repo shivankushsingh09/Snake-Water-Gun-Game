@@ -89,7 +89,7 @@ git push origin feature/new-feature
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](#license) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/shivankushsingh09/Snake-Water-Gun-Game?tab=MIT-1-ov-file) file for details.
 
 ### Acknowledgments
 
