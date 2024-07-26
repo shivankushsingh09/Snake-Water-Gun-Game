@@ -26,14 +26,12 @@ The Snake Water Gun Game is a simple implementation of the classic game using th
 
 ```
 cd Snake-Water-Gun-Game
-
 ```
 
 3. Compile the Code:
 
 ```
 gcc -o Snake-Water-Gun-Game main.c
-
 ```
 
 4. Run the Game:
@@ -71,7 +69,6 @@ gcc -o Snake-Water-Gun-Game main.c
 
 ```
 git checkout -b feature/new-feature
-
 ```
 
 3. Make Changes and Commit:
@@ -79,14 +76,12 @@ git checkout -b feature/new-feature
 ```
 git add .
 git commit -m "Add new feature"
-
 ```
 
 4. Push to Your Fork:
 
 ```
 git push origin feature/new-feature
-
 ```
 
 5. Open a Pull Request:
@@ -94,7 +89,7 @@ git push origin feature/new-feature
 
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](#license) file for details.
 
 ### Acknowledgments
 
